@@ -1,0 +1,6 @@
+[book]
+authors = ["Micaias"]
+language = "br"
+multilingual = false
+src = "src"
+title = "Banco de Dados Relacional"
