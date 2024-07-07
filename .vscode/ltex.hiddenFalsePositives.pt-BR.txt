@@ -1,0 +1,4 @@
+{"rule":"REPEATED_WORDS_3X","sentence":"^\\QBom, no mundo onde vivemos, temos vários modos de fazer um banco de dados, e o mais comum atualmente, é o Banco de Dados Relacional, onde vamos guardar os dados usando o relacionamento entre eles.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QNum sistema de verdade teríamos que guardar muitas informações dele, mas, para esse exemplo, vamos utilizar somente o nome completo, nome de usuário, e-mail e senha\\E$"}
+{"rule":"PT_WORDINESS_REPLACE","sentence":"^\\QSe colocassemos essas informações numa planilha ficaria mais ou menos assim\\E$"}
+{"rule":"PT_WORDINESS_REPLACE","sentence":"^\\QSe colocássemos essas informações numa planilha ficaria mais ou menos assim\\E$"}

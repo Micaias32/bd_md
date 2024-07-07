@@ -1,5 +1,7 @@
 # Summary
 
 [Introdução](./introduction.md)
-# Porque usar um Banco de Dados?
-- [A coisa mais valiosa](./1-value_of_information.md)
+
+## Design de Banco de Dados Realcional
+
+- [O que é um Banco de Dados Relacional?](./1-what_is_a_relational_db.md)

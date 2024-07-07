@@ -1,0 +1,2 @@
+2024-06-20 17:30:14 [ERROR] (mdbook::utils): Error: Couldn't open SUMMARY.md in "/home/micaiasos/projects/md/bd_md/data-banks/&/src" directory
+2024-06-20 17:30:14 [ERROR] (mdbook::utils): 	Caused By: No such file or directory (os error 2)
