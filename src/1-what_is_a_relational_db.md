@@ -19,6 +19,6 @@ Neste exemplo, vemos que podemos tratar usuário Miguel como uma linha da tabela
 
 Agora, se precisarmos das informações do usuário "luiz_rocha", procuramos a linha com esse nome de usuário, e vemos a informação que precisamos.
 
-A parte mais legal é que não estamos distantes do banco em si, até porque usar uma tabela para modelar e mostrar como um BDR funciona é muito comum.
+A parte mais legal é que não estamos distantes do banco em si, até porque usar uma tabela para modelar e mostrar como um BDR funciona é muito comum. No Banco de Dados Relacional, usamos tabelas para 
 
 > Quando se fala em bancos de dados relacionais, usamos nomes mais **bonitinhos** para esses conceitos. Mantemos colunas (*columns*), mas ao invés de linhas, usamos tuplas (*tuples*) e chamamos a tabela de *table*, porque a maioria dos sistemas feitos para bancos de dados são em inglês, então é útil saber os nomes em inglês.
